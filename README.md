@@ -7,21 +7,27 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 ***1.1.  Nome do Grupo***
 
-Indicar o nome e github dos integrantes do grupo
+Grupo 8:
+Alefh Trindade Luz de Lima
+Fábio Massashi Suzuki
+Pedro Augusto Morais
+Vitor Barbosa Hilário
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+KiStock
 
 ***1.3.  Propósito do Sistema***
 
-Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *`nome da empresa`*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Este documento apresenta os requisitos dos usuários a serem desenvolvidos pela *KiStock*, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-O objetivo do sistema `nome do sistema` é .... *<Descrever aqui o objetivo do sistema que será desenvolvido, principais características, benefícios, problemas que o sistema ajudará a resolver, o comportamento principal do sistema, etc.>*
+O objetivo do sistema *KiStock* é *gerenciar o estoque de forma otimizada e eficiente, com registros de produtos, relatório de compras e vendas, além de ter notificações de produtos que irão vencer e contas a pagar*.
+
+
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes, *Donos de comércio, gerentes de estoque e paralelos.*
 
 ***1.3. Descrição dos usuários***
 
