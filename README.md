@@ -31,9 +31,14 @@ Este documento se destina às pessoas cujo interesse está alinhado com obtenç�
 
 ***1.3. Descrição dos usuários***
 
-|Perfil|A|B|
-|------|------|------|
-|Porcentagem|75%|26%|
+
+| Perfil | Empreendedor | Analista de Estoque |
+| -------- | ------- | ------|
+| Porcentagem de usuário | 80% | 20% |
+| Faixa etária | [18, 50] | [20, 45] |
+| Nível de instrução | Alto | Médio |
+| Experiência com a tecnologia | Baixo | Alto |
+
 
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
