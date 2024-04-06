@@ -27,12 +27,14 @@ O objetivo do sistema *KiStock* é *gerenciar o estoque de forma otimizada e efi
 
 ***1.2.  Público Alvo***
 
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes, *Donos de comércio, gerentes de estoque e paralelos.*
+Este documento se destina às pessoas cujo interesse está alinhado com obtenção de um software para gerenciamento e gestão de estoque em sua empresa ou comércio - pequeno ou médio.
 
 ***1.3. Descrição dos usuários***
-Pessoas cujo interesse está alinhado com obtenção de um software para gerenciamento e gestão de estoque.
-Anti-usuário
-Pessoas cujo interesse não está alinhado com obtenção de um software para gerenciamento e gestão de estoque.
+
+|Perfil|A|B|
+|------|------|------|
+|Porcentagem|75%|26%|
+
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
 ## 2. Documentos gerais no repositório
