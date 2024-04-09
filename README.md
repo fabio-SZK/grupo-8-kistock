@@ -44,7 +44,7 @@ Este documento se destina às pessoas cujo interesse está alinhado com obtenç�
 
 **Personas**
 
-| Persona 1 | Persona 2 | Persona 2 |
+| Persona 1 | Persona 2 | Persona 3 |
 | --------- | --------- | ----------|
 | ![2](https://github.com/fabio-SZK/grupo-8-kistock/assets/81326138/716d5aa5-90b6-49c2-9e6b-a7a729eefcb1) | ![3](https://github.com/fabio-SZK/grupo-8-kistock/assets/81326138/7189474c-1faa-490f-afeb-06c067a21c8b) | ![4](https://github.com/fabio-SZK/grupo-8-kistock/assets/81326138/7d9b21f2-4ee4-4bfd-b5dd-aca0aa53bdf3) |
 
@@ -80,7 +80,6 @@ O KiStock é uma ferramenta completa que permite cadastrar fornecedores, produto
 
 Agora, Celine não precisa mais depender do grupo no Whatsapp para acompanhar as atualizações do estoque. Em vez disso, ela  faz login no KiStock para acessar todas as informações necessárias de forma rápida e simplificada, garantindo uma produção mais eficiente e organizada,e entregando e repondo o estoque com produtos cosméticos.
 
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
 ## 2. Documentos gerais no repositório
 
