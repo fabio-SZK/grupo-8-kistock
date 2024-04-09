@@ -3,6 +3,8 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
+https://padlet.com/meditous/kanban-cwkliizsdtdkxhas
+
 ## 1. Introdução
 
 ***1.1.  Nome do Grupo***
