@@ -33,6 +33,7 @@ Este documento se destina às pessoas cujo interesse está alinhado com obtenç�
 
 ***1.3. Descrição dos usuários***
 
+**Perfil do Usuário**
 
 | Perfil | Empreendedor | Analista de Estoque |
 | -------- | ------- | ------|
