@@ -42,7 +42,9 @@ Este documento se destina às pessoas cujo interesse está alinhado com obtenç�
 **Cenário Antes**
 
 Jeff trabalha como analista de estoque numa fábrica de cosméticos animais,para automatizar e facilitar a organização do estoque ele anota a entrada e a saída de produtos e encaminha a mensagem no grupo da empresa no Whatsapp para deixar registrado.Por meio dessa tecnologia Jeff encaminha a mensagem atualizando diariamente cada entrada/saída de produtos do estoque da fábrica.
+
 Jeff tem como prazo fazer as atualizações de estoque até as 18:00 horas,para manter a produção da fábrica em alerta de qual cosmético ou matéria-prima está em falta,após criar o grupo no Whatsapp,Jeff encaminha a atualização diária.
+
 Celine,a produtora da fábrica não consegue fazer a tempo os produtos,pois no grupo da fábrica tem muitas mensagens que não são correlacionadas com a manutenção da entrada/saída do estoque,além do que Celine usa o grupo para pedir a compra de novas matérias-primas para a fabricação,acarretando na perda das informações que Jeff tinha passado,deixando muitas vezes,desorganizado a produção e manutenção do estoque.
 
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
