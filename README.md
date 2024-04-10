@@ -3,7 +3,10 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-https://padlet.com/meditous/kanban-cwkliizsdtdkxhas
+[![Padlet Button]][Padlet Link]
+
+[Padlet Link]: https://padlet.com/meditous/kanban-cwkliizsdtdkxhas
+[Padlet Button]: https://img.shields.io/badge/Padlet%20do%20projeto-2e66e8?style=for-the-badge
 
 ## 1. Introdução
 
