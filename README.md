@@ -14,9 +14,13 @@ Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Soft
 
 Grupo 8:
 Alefh Trindade Luz de Lima
+
 Fábio Massashi Suzuki
+
 Pedro Augusto Morais
+
 Vitor Barbosa Hilário
+
 
 ***1.2.  Nome do Sistema***
 
