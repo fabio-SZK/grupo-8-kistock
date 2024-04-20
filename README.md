@@ -95,9 +95,10 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 
 
 |Identificador| Descrição|
+| -------- | -------- |
 |RF01| O software deve permitir o cadastro de funcionários membros e funcionário administrador.|
 |RF02| O software deve permitir ao funcionário adiministrador o cadastro de produtos e fornecedores|
-|Rf03| O software deve permitir aos funcionários ver o status do estoque (a quantidade de produtos disponíveis)|
+|RF03| O software deve permitir aos funcionários ver o status do estoque (a quantidade de produtos disponíveis)|
 |RF04| O software deve enviar notificações para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando|
 |RF05| O software deve permitir aos funcionários a possibilidade que façam a leitura por código de barra de produtos para facilitar o o processo de inventário de estoque|
 |RF06| O software deve manter um histórico de entrada e saída de produtos em um determinado tempo para auxiliar no controle do estoque|
