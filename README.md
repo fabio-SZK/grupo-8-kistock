@@ -99,19 +99,26 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RF01| O software deve permitir o cadastro de funcionários membros e funcionário administrador.|
 |RF02| O software deve permitir ao funcionário adiministrador o cadastro de produtos e fornecedores|
 |RF03| O software deve permitir aos funcionários ver o status do estoque (a quantidade de produtos disponíveis)|
-|RF04| O software deve enviar notificações para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando|
-|RF05| O software deve permitir aos funcionários a possibilidade que façam a leitura por código de barra de produtos para facilitar o o processo de inventário de estoque|
-|RF06| O software deve manter um histórico de entrada e saída de produtos em um determinado tempo para auxiliar no controle do estoque|
-|RF07| O software deve permitir aos funcionários a geração de relatórios de entrada e saída de produtos.|
-|RF08| O software deve permitir aos funcionários o acesso às informações do estoque (produtos, histórico e registros)|
-|RF09| O software deve notificar ao funcionário quando uma conta a pagar estiver prestes a vencer.|
-|RF10| O software deve apresentar as informações do estoque em uma tela única de forma organizada para facilitar a leitura pelos funcionários.|
-|RF11| O software deve efetuar análises do estoque utilizando machine learning.|
-|RF12| O software deve permitir que os funcionários apliquem metodologias de gerenciamento de estoque sobre as informações de forma |
+|RF04| O software deve permitir aos funcionários a possibilidade que façam a leitura por código de barra de produtos para facilitar o o processo de inventário de estoque|
+|RF05| O software deve manter um histórico de entrada e saída de produtos em um determinado tempo para auxiliar no controle do estoque|
+|RF06| O software deve permitir aos funcionários a geração de relatórios de entrada e saída de produtos.|
+|RF07| O software deve permitir aos funcionários o acesso às informações do estoque (produtos, histórico e registros)|
+|RF08| O software deve notificar ao funcionário quando uma conta a pagar estiver prestes a vencer.|
+|RF09| O software deve apresentar as informações do estoque em uma tela única de forma organizada para facilitar a leitura pelos funcionários.|
+|RF10| O software deve efetuar análises do estoque utilizando machine learning.|
+|RF11| O software deve permitir que os funcionários apliquem metodologias de gerenciamento de estoque sobre as informações de forma automática  |
 
-automática 
 
-***2.2. Requisitos de sistema***
+***2.2. Requisitos Não-Funcionais***
+
+|Identificador| Descrição|
+| -------- | -------- |
+|RNF01| O software deve responder as requisições no intervalo entre 0,5 à 2 segundos.|
+|RNF02| O software deve ter um tutorial com indicativos de clique para as funcionalidades.|
+|RNF03| O software deve criptografar todas as informações aós salvar os dados.|
+|RNF04| O software deve funcionar tanto para Web qunato para Mobile.|
+|RNF05| O software deve salvar o login e senha do usuário por termpo determinado.Ex:1 semana|
+|RNF06| O software deve enviar notificações para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando|
 
 *<Link para a pasta de requisitos de sistema .>*
 
