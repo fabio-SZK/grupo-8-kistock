@@ -115,10 +115,14 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 | -------- | -------- |
 |RNF01| O software deve responder as requisições no intervalo entre 0,5 à 2 segundos.|
 |RNF02| O software deve ter um tutorial com indicativos de clique para as funcionalidades.|
-|RNF03| O software deve criptografar todas as informações aós salvar os dados.|
-|RNF04| O software deve funcionar tanto para Web qunato para Mobile.|
-|RNF05| O software deve salvar o login e senha do usuário por termpo determinado.Ex:1 semana|
-|RNF06| O software deve enviar notificações para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando|
+|RNF03| O software deve criptografar todas as informações aos salvar os dados.|
+|RNF04| O software deve funcionar tanto para Web quanto para Mobile.|
+|RNF05| O software deve salvar o login e senha do usuário por termpo determinado.Ex:1 semana.|
+|RNF06| O software deve enviar notificações para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando.|
+|RNF07| O software deve permitir o uso do app em modo offline,sincronizando os dados após restaurar a conexão com a internet.|
+|RNF08| O software deve facilitar a comunicação com sistema de logística para otimizar a gestão de entregas e recebimento de mercadoria.|
+|RNF09| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware.|
+|RNF10| O software deve ter um suporte multilíngue disponibilizando tanto para Mobile quanto para o Web diferentes idiomas.|
 
 *<Link para a pasta de requisitos de sistema .>*
 
