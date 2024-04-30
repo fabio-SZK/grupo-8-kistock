@@ -142,7 +142,7 @@ Ambiente virtual.
 Como? (definição dos tipos de questões e registro).
 Pergunta fechada.
 
-**|Perguntas da Entrevista|**
+**|Pergunta | Como? |**
 | -------- | -------- |
 |1-Pergunta| Como você controla os vencimentos dos produtos?|
 
