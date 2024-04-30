@@ -142,23 +142,18 @@ Ambiente virtual.
 Como? (definição dos tipos de questões e registro).
 Pergunta fechada.
 
-**| Pergunta | Como? |**
-| -------- | -------- |
-| 1-Pergunta | Como você controla os vencimentos dos produtos? |
 
-| 2-Pergunta | Como faz o rastreio da quantidade de produtos no estoque? |
+**| Pergunta  | Como? |**
+| ------------- | ------------- |
+| 1-Pergunta  | Como você controla os vencimentos dos produtos?  |
+| 2-Pergunta  | Como faz o rastreio da quantidade de produtos no estoque?  |
+| 3-Pergunta | Como você realiza o controle de estoque atualmente na sua fábrica?  |
+| 4-Pergunta | Como são feitos os relatórios de entrada e saída de produtos da sua fábrica?  |
+| 5-Pergunta | Quais notas fiscais você precisa emitir?  |
+| 6-Pergunta | Como você gerencia o cadastro de Produtos, Fornecedores, Clientes e Empregados?  |
+| 7-Pergunta | Como é o seu controle de estoque atualmente e quais funcionalidades tecnológicas gostaria de ter presentes nesse seu controle?  |
+| 8-Pergunta | Quais os seus gastos atualmente com o gerenciamento de Produtos, Vendas e Compras?  |
 
-| 3-Pergunta | Como você realiza o controle de estoque atualmente na sua fábrica? |
-
-| 4-Pergunta | Como são feitos os relatórios de entrada e saída de produtos da sua fábrica? |
-
-| 5-Pergunta | Quais notas fiscais você precisa emitir? |
-
-| 6-Pergunta | Como você gerencia o cadastro de Produtos, Fornecedores, Clientes e Empregados? |
-
-| 7-Pergunta | Como é o seu controle de estoque atualmente e quais funcionalidades tecnológicas gostaria de ter presentes nesse seu controle? |
-
-| 8-Pergunta | Quais os seus gastos atualmente com o gerenciamento de Produtos, Vendas e Compras? |
 
 
 ***2.3. Protótipos***
