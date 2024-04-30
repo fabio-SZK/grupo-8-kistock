@@ -145,14 +145,14 @@ Pergunta fechada.
 
 | Pergunta | Descrição |
 |----------|-----------|
-| 1-Pergunta | Como você controla os vencimentos dos produtos? |
-| 2-Pergunta | Como faz o rastreio da quantidade de produtos no estoque? |
-| 3-Pergunta | Como você realiza o controle de estoque atualmente na sua fábrica? |
-| 4-Pergunta | Como são feitos os relatórios de entrada e saída de produtos da sua fábrica? |
-| 5-Pergunta | Quais notas fiscais você precisa emitir? |
-| 6-Pergunta | Como você gerencia o cadastro de Produtos, Fornecedores, Clientes e Empregados? |
-| 7-Pergunta | Como é o seu controle de estoque atualmente e quais funcionalidades tecnológicas gostaria de ter presentes nesse seu controle? |
-| 8-Pergunta | Quais os seus gastos atualmente com o gerenciamento de Produtos, Vendas e Compras? |
+| 1PGT | Como você controla os vencimentos dos produtos? |
+| 2PGT | Como faz o rastreio da quantidade de produtos no estoque? |
+| 3PGT | Como você realiza o controle de estoque atualmente na sua fábrica? |
+| 4PGT | Como são feitos os relatórios de entrada e saída de produtos da sua fábrica? |
+| 5PGT | Quais notas fiscais você precisa emitir? |
+| 6PGT | Como você gerencia o cadastro de Produtos, Fornecedores, Clientes e Empregados? |
+| 7PGT | Como é o seu controle de estoque atualmente e quais funcionalidades tecnológicas gostaria de ter presentes nesse seu controle? |
+| 8PGT | Quais os seus gastos atualmente com o gerenciamento de Produtos, Vendas e Compras? |
 
 
 
