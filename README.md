@@ -125,6 +125,7 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas.|
 
 *<Link para a pasta de requisitos de sistema .>*
+
 ***Entrevista***
 
 Por que? (objetivos da entrevista).
