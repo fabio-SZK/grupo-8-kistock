@@ -125,7 +125,7 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas.|
 
 *<Link para a pasta de requisitos de sistema .>*
-**Entrevista**
+***Entrevista***
 Por que? (objetivos da entrevista).
 Coletar informações importantes para o desenvolvimento mais eficiente e adequado para o gerenciamento de estoque.
 Quem? (perfil).
@@ -136,7 +136,7 @@ Onde? (local).
 Ambiente virtual.
 Como? (definição dos tipos de questões e registro).
 Pergunta fechada.
-**|Perguntas da Entrevista|**
+***|Perguntas da Entrevista|***
 |1-Pergunta: Como você controla os vencimentos dos produtos?|
 |Resposta:|
 |2-Pergunta: Como faz o rastreio da quantidade de produtos no estoque?|
