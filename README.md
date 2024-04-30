@@ -37,7 +37,7 @@ O objetivo do sistema *KiStock* é *gerenciar o estoque de forma otimizada e efi
 
 ***1.2.  Público Alvo***
 
-Este documento se destina às pessoas cujo interesse está alinhado com obtenção de um software para gerenciamento e gestão de estoque em sua empresa ou comércio, ou empreendimento.
+Este documento se destina às pessoas cujo os interesses estão alinhados com obtenção de um software para gerenciamento e gestão de estoque em sua empresa ou comércio, ou empreendimento.
 
 ***1.3. Descrição dos usuários***
 
@@ -74,7 +74,7 @@ Este documento se destina às pessoas cujo interesse está alinhado com obtenç�
 
 **Cenário - Antes**
 
-Jeff trabalha como analista de estoque numa fábrica de cosméticos animais, para automatizar e facilitar a organização do estoque ele anota a entrada e a saída de produtos e encaminha para a planilha de Excel para deixar registrado. Por meio dessa tecnologia, Jeff encaminha as anotações atualizando diariamente cada entrada/saída de produtos do estoque da fábrica.
+Jeff trabalha como analista de estoque numa fábrica de cosméticos animais, para automatizar e facilitar a organização do estoque, ele anota a entrada e a saída de produtos e encaminha para a planilha de Excel para deixar registrado. Por meio dessa tecnologia, Jeff encaminha as anotações atualizando diariamente cada entrada/saída de produtos do estoque da fábrica.
 
 Jeff tem como prazo fazer as atualizações de estoque até as 18:00 horas. Para manter a produção da fábrica em alerta de qual cosmético ou matéria-prima está em falta, na planilha, Jeff encaminha a atualização diária.
 
@@ -84,9 +84,9 @@ Celina, a produtora da fábrica não consegue fazer a tempo os produtos, pois qu
 
 Jeff trabalha como analista de estoque numa fábrica de cosméticos animais, onde sua principal responsabilidade é manter o controle preciso das entradas e saídas de produtos. Para otimizar esse processo e garantir que a produção da fábrica seja eficiente, a empresa implementou o sistema chamado KiStock.
 
-O KiStock é uma ferramenta completa que permite cadastrar fornecedores, produtos e históricos detalhados de todas as transações relacionadas ao estoque. Além disso, ele verifica a disponibilidade de cada item em estoque, tanto para venda quanto para fabricação. Com o KiStock,a fábrica automatizou e facilitou a manutenção do estoque, proporcionando uma maneira organizada e eficaz de gerenciar todas as operações. Jeff consegue atualizar todas as informações sobre o estoque, deixando a comunicação entre o estoque e a produção da fábrica mais eficiente e automatizada.
+O KiStock é uma ferramenta completa que permite cadastrar fornecedores, produtos e históricos detalhados de todas as transações relacionadas ao estoque. Além disso, ele verifica a disponibilidade de cada item em estoque, tanto para venda quanto para fabricação. Com o KiStock, a fábrica automatizou e facilitou a manutenção do estoque, proporcionando uma maneira organizada e eficaz de gerenciar todas as operações. Jeff consegue atualizar todas as informações sobre o estoque, deixando a comunicação entre o estoque e a produção da fábrica mais eficiente e automatizada.
 
-Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualizações do estoque. Em vez disso, ela  faz login no KiStock para acessar todas as informações necessárias de forma rápida e simplificada, garantindo uma produção mais eficiente e organizada, e entregando e repondo o estoque com produtos cosméticos.
+Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualizações do estoque. Em vez disso, ela faz login no KiStock para acessar todas as informações necessárias de forma rápida e simplificada, garantindo uma produção mais eficiente e organizada, entregando e repondo o estoque com produtos cosméticos.
 
 
 ## 2. Documentos gerais no repositório
@@ -98,8 +98,8 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 | -------- | -------- |
 |RF01| O software deve permitir o cadastro de funcionários membros e funcionário administrador.|
 |RF02| O software deve permitir ao funcionário adiministrador o cadastro de produtos e fornecedores|
-|RF03| O software deve permitir aos funcionários ver o status do estoque (a quantidade de produtos disponíveis)|
-|RF04| O software deve permitir aos funcionários a possibilidade que façam a leitura por código de barra de produtos para facilitar o o processo de inventário de estoque|
+|RF03| O software deve permitir aos funcionários ver o status do estoque (quantidade de produtos disponíveis)|
+|RF04| O software deve permitir aos funcionários a possibilidade que façam a leitura por código de barra de produtos para facilitar o processo de inventário de estoque|
 |RF05| O software deve manter um histórico de entrada e saída de produtos em um determinado tempo para auxiliar no controle do estoque|
 |RF06| O software deve permitir aos funcionários a geração de relatórios de entrada e saída de produtos.|
 |RF07| O software deve permitir aos funcionários o acesso às informações do estoque (produtos, histórico e registros)|
@@ -119,10 +119,10 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RNF04| O software deve funcionar tanto para Web quanto para Mobile.|
 |RNF05| O software deve salvar o login e senha do usuário por termpo determinado.Ex:1 semana.|
 |RNF06| O software deve enviar notificações para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando.|
-|RNF07| O software deve permitir o uso do app em modo offline,sincronizando os dados após restaurar a conexão com a internet.|
+|RNF07| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet.|
 |RNF08| O software deve facilitar a comunicação com sistema de logística para otimizar a gestão de entregas e recebimento de mercadoria.|
 |RNF09| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware.|
-|RNF10| O software deve ter um suporte multilíngue disponibilizando tanto para Mobile quanto para o Web diferentes idiomas.|
+|RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas.|
 
 *<Link para a pasta de requisitos de sistema .>*
 
