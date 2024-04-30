@@ -125,6 +125,34 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas.|
 
 *<Link para a pasta de requisitos de sistema .>*
+**Entrevista**
+Por que? (objetivos da entrevista)
+Coletar informações importantes para o desenvolvimento mais eficiente e adequado para o gerenciamento de estoque
+Quem? (perfil)
+João Roberto, empresário.
+Quando? (data, horário,duração)
+01/05/2024
+Onde? (local)
+Ambiente virtual.
+Como? (definição dos tipos de questões e registro)
+Pergunta fechada
+**|Perguntas da Entrevista|**
+|1-Pergunta: Como você controla os vencimentos dos produtos?|
+|Resposta:|
+|2-Pergunta: Como faz o rastreio da quantidade de produtos no estoque?|
+|Resposta:|
+|3-Pergunta: Como você realiza o controle de estoque atualmente na sua fábrica?|
+|4-Pergunta:|
+|Como são feitos os relatórios de entrada e saída de produtos da sua fábrica?|
+|Resposta:|
+|5-Pergunta: Quais notas fiscais você precisa emitir?|
+|Resposta:|
+|6-Pergunta: Como você gerencia o cadastro de Produtos, Fornecedores, Clientes e Empregados?|
+|Resposta:|
+|7-Pergunta: Como é o seu controle de estoque atualmente e quais funcionalidades tecnológicas gostaria de ter presentes nesse seu controle?|
+|Resposta:|
+|8-Pergunta: Quais os seus gastos atualmente com o gerenciamento de Produtos, Vendas e Compras|
+|Resposta:|
 
 ***2.3. Protótipos***
 
