@@ -126,16 +126,22 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 
 *<Link para a pasta de requisitos de sistema .>*
 ***Entrevista***
+
 Por que? (objetivos da entrevista).
 Coletar informações importantes para o desenvolvimento mais eficiente e adequado para o gerenciamento de estoque.
+
 Quem? (perfil).
 João Roberto, empresário.
+
 Quando? (data, horário,duração).
 01/05/2024.
+
 Onde? (local).
 Ambiente virtual.
+
 Como? (definição dos tipos de questões e registro).
 Pergunta fechada.
+
 ***|Perguntas da Entrevista|***
 |1-Pergunta: Como você controla os vencimentos dos produtos?|
 |Resposta:|
