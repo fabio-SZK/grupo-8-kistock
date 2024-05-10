@@ -147,7 +147,7 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 
 ***Entrevista***
 
-[Link para entrevista](./entrevista.mp3)
+[Link para entrevista](https://drive.google.com/file/d/1iSvgwKbPu8mS0f2RmkZpzk3xLLH8myhZ/view?usp=sharing)
 
 Por que? (objetivos da entrevista).
 Coletar informações importantes para o desenvolvimento mais eficiente e adequado para o gerenciamento de estoque.
