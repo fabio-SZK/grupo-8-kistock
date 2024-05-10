@@ -147,11 +147,13 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 
 ***Entrevista***
 
+[Link para entrevista](./entrevista.mp3)
+
 Por que? (objetivos da entrevista).
 Coletar informações importantes para o desenvolvimento mais eficiente e adequado para o gerenciamento de estoque.
 
 Quem? (perfil).
-João Roberto, empresário.
+Joel Roberto, empresário.
 
 Quando? (data, horário,duração).
 01/05/2024.
@@ -173,7 +175,6 @@ Pergunta fechada.
 | 6PGT | Como você gerencia o cadastro de Produtos, Fornecedores, Clientes e Empregados? |
 | 7PGT | Como é o seu controle de estoque atualmente e quais funcionalidades tecnológicas gostaria de ter presentes nesse seu controle? |
 | 8PGT | Quais os seus gastos atualmente com o gerenciamento de Produtos, Vendas e Compras? |
-
 
 
 ***2.3. Protótipos***
