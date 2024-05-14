@@ -130,19 +130,12 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |Identificador| Descrição|
 | -------- | -------- |
 |HU01| Como gerente da empresa,eu quero poder cadastrar novos funcionários, para ter uma organização maior da equipe da empresa|
-
-|HU02| Como fabricante,eu quero poder verificar o estoque,para ter um maior controle dos produtos disponíveis para fabricação|
-
-|HU03| Como funcionário,eu quero receber uma notificação de contas prestes a vencer,para evitar faturas não pagas|
-
-|HU04| Como estoquista,eu quero ter a entrada/saída de todos produtos e matérias-priamas do estoque,para ter um desempenho maior na fabricação e lucro da empresa|
-
+|HU02| Como fabricante, eu quero poder verificar o estoque,para ter um maior controle dos produtos disponíveis para fabricação|
+|HU03| Como funcionário, eu quero receber uma notificação de contas prestes a vencer,para evitar faturas não pagas|
+|HU04| Como estoquista, eu quero ter a entrada/saída de todos produtos e matérias-priamas do estoque,para ter um desempenho maior na fabricação e lucro da empresa|
 |HU05| Como funcionário administrador,eu quero ser capaz de cadastrar novos produtos e fornecedores,para manter o estoque atualizado|
-
 |HU06| Como funcionário,eu quero acessar as informações do estoque(produtos,histórico e registros),para realizar minhas atividades de forma eficiente|
-
 |HU07| Como funcionário,eu quero utilizar análises do estoque utilizando machine learning,para prever demandas futuras e otimizar o gerenciamento de estoque|
-
 |HU08| Como funcionário,eu quero aplicar metodologias de gerenciamento de estoque sobre as informações de forma automática,para melhorar a eficiência e reduzir erros|
 
 
