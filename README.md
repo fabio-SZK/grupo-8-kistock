@@ -94,41 +94,41 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 ***2.1. Requisitos funcionais***
 
 
-|Identificador| Descrição|
-| -------- | -------- |
-|RF01| O software deve permitir o cadastro de funcionários membros e funcionário administrador - Alta|
-|RF02| O software deve permitir ao funcionário adiministrador o cadastro de produtos e fornecedores - Alta|
-|RF03| O software deve permitir aos funcionários ver o status do estoque (quantidade de produtos disponíveis) - Alta|
-|RF04| O software deve permitir aos funcionários a possibilidade que façam a leitura por código de barra de produtos para facilitar o processo de inventário de estoque - Média|
-|RF05| O software deve manter um histórico de entrada e saída de produtos em um determinado tempo para auxiliar no controle do estoque. - Alta|
-|RF06| O software deve permitir aos funcionários a geração de relatórios de entrada e saída de produtos - Alta|
-|RF07| O software deve permitir aos funcionários o acesso às informações do estoque (produtos, histórico e registros) - Alta|
-|RF08| O software deve notificar ao funcionário quando uma conta a pagar estiver prestes a vencer - Média|
-|RF09| O software deve apresentar as informações do estoque em uma tela única de forma organizada para facilitar a leitura pelos funcionários - Baixa|
-|RF10| O software deve efetuar análises do estoque utilizando machine learning - Alta|
-|RF11| O software deve permitir que os funcionários apliquem metodologias de gerenciamento de estoque sobre as informações de forma automática - Média |
+|Identificador| Descrição| Prioridade|
+| -------- | -------- | -------- |
+|RF01| O software deve permitir o cadastro de funcionários membros e funcionário administrador | Alta|
+|RF02| O software deve permitir ao funcionário adiministrador o cadastro de produtos e fornecedores | Alta|
+|RF03| O software deve permitir aos funcionários ver o status do estoque (quantidade de produtos disponíveis) | Alta|
+|RF04| O software deve permitir aos funcionários a possibilidade que façam a leitura por código de barra de produtos para facilitar o processo de inventário de estoque | Média|
+|RF05| O software deve manter um histórico de entrada e saída de produtos em um determinado tempo para auxiliar no controle do estoque. | Alta|
+|RF06| O software deve permitir aos funcionários a geração de relatórios de entrada e saída de produtos | Alta|
+|RF07| O software deve permitir aos funcionários o acesso às informações do estoque (produtos, histórico e registros) | Alta|
+|RF08| O software deve notificar ao funcionário quando uma conta a pagar estiver prestes a vencer | Média|
+|RF09| O software deve apresentar as informações do estoque em uma tela única de forma organizada para facilitar a leitura pelos funcionários | Baixa|
+|RF10| O software deve efetuar análises do estoque utilizando machine learning | Alta|
+|RF11| O software deve permitir que os funcionários apliquem metodologias de gerenciamento de estoque sobre as informações de forma automática | Média |
 
 
 ***2.2. Requisitos Não-Funcionais***
 
-|Identificador| Descrição|
-| -------- | -------- |
-|RNF01| O software deve responder as requisições no intervalo entre 0,5 à 2 segundos - Média|
-|RNF02| O software deve ter um tutorial com indicativos de clique para as funcionalidades - Média|
-|RNF03| O software deve criptografar todas as informações aos salvar os dados - Alta|
-|RNF04| O software deve funcionar tanto para Web quanto para Mobile - Alta|
-|RNF05| O software deve salvar o login e senha do usuário por termpo determinado.Ex:1 semana - Baixa|
-|RNF06| O software deve enviar notificações para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando - Baixa|
-|RNF07| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet - Média|
-|RNF08| O software deve facilitar a comunicação com sistema de logística para otimizar a gestão de entregas e recebimento de mercadoria - Alta|
-|RNF09| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware - Alta|
-|RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas - Média|
+|Identificador| Descrição| Prioridade|
+| -------- | -------- | -------- |
+|RNF01| O software deve responder as requisições no intervalo entre 0,5 à 2 segundos | Média|
+|RNF02| O software deve ter um tutorial com indicativos de clique para as funcionalidades | Média|
+|RNF03| O software deve criptografar todas as informações aos salvar os dados | Alta|
+|RNF04| O software deve funcionar tanto para Web quanto para Mobile | Alta|
+|RNF05| O software deve salvar o login e senha do usuário por termpo determinado.Ex:1 semana | Baixa|
+|RNF06| O software deve enviar notificações para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando | Baixa|
+|RNF07| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet | Média|
+|RNF08| O software deve facilitar a comunicação com sistema de logística para otimizar a gestão de entregas e recebimento de mercadoria | Alta|
+|RNF09| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware | Alta|
+|RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas | Média|
 
 *<Link para a pasta de requisitos de sistema .>*
 
 ***2.3. Histórias de Usuários***
 
-1.Como gerente da empresa,eu quero poder cadastrar novos funcionários,para ter uma organização maior da equipe da empresa.
+1.Como gerente da empresa,eu quero poder cadastrar novos funcionários, para ter uma organização maior da equipe da empresa.
 
 2.Como fabricante,eu quero poder verificar o estoque,para ter um maior controle dos produtos disponíveis para fabricação.
 
