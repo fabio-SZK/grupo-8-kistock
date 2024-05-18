@@ -96,18 +96,17 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 
 |Identificador| Descrição| Prioridade|
 | -------- | -------- | -------- |
-|RF01| O software deve permitir o cadastro de funcionários membros e funcionário administrador | Alta|
-|RF02| O software deve permitir ao funcionário adiministrador o cadastro de produtos e fornecedores | Alta|
-|RF03| O software deve permitir aos funcionários ver o status do estoque (quantidade de produtos disponíveis) | Alta|
-|RF04| O software deve permitir aos funcionários a possibilidade que façam a leitura por código de barra de produtos para agilizar o processo de inventário de estoque | Média|
-|RF05| O software deve manter um histórico de entrada e saída de produtos em um determinado tempo para auxiliar no controle do estoque. | Alta|
-|RF06| O software deve permitir aos funcionários a geração de relatórios de entrada e saída de produtos | Alta|
-|RF07| O software deve permitir aos funcionários o acesso às informações do estoque (produtos, histórico e registros) | Alta|
-|RF08| O software deve notificar ao funcionário quando uma conta a pagar estiver prestes a vencer com 7 dias de antecendência| Média|
-|RF09| O software deve apresentar as informações do estoque em uma tela única de forma organizada para facilitar a leitura pelos funcionários | Baixa|
-|RF10| O software deve efetuar análises do estoque utilizando machine learning | Alta|
-|RF11| O software deve permitir que os funcionários apliquem metodologias de gerenciamento de estoque sobre as informações de forma automática | Média |
-
+|RF01| O software deve permitir o cadastro de funcionários membros e funcionário administrador. |Alta|
+|RF02| O software deve permitir ao funcionário adiministrador o cadastro de produtos e fornecedores |Alta|
+|RF03| O software deve permitir aos funcionários ver o status do estoque (quantidade de produtos disponíveis). |Alta|
+|RF04| O software deve permitir aos funcionários a possibilidade de que se faça a leitura de produtos por um leitor de código de barras, como meio de facilitar o processo de inventário de estoque, isto é, substituindo o processo de escrita de códigos GTIN em planílias ou papéis de forma manuscrita. |Média|
+|RF05| O software deve manter um histórico de entrada de produtos, registrando as compras pela Nota Fiscal de Entrada gerada pelo fornecedor, por um período mínimo de 5 anos. |Alta|
+|RF06| O software deve manter um histórico de sáida de produtos, registrando as venda pela Nota Fiscal de Saída gerada pelo cliente usuário do controle de estoque, por um período mínimo de 15 anos. |Alta|
+|RF07| O software deve permitir aos funcionários a geração de relatórios de entrada e saída de produtos. |Alta|
+|RF08| O software deve permitir aos funcionários o acesso às informações do estoque (produtos, histórico e registros). |Alta|
+|RF09| O software deve notificar com antecedência ao funcionário quando uma conta a pagar tiver seu vencimento apontado para os próximos 3 dias. |Média|
+|RF10| O software deve apresentar as informações do estoque em uma coluna com scroll à esquerda da tela principal - exibida assim que o usuário é autenticado no sistema, assim como um drawer layout, possibilitando facil acesso a uma informação assim que selecionado um item à esquerda, como vendas, compras, estoque com os produtos, dashboard e o emissor de nota fiscal. |Baixa|
+|RF11| O software deve efetuar análises dos valores faturados nas vendas de todos os produtos que houveram movimentações, gerando gráficos semanais, mensais, semestrais e anuais, possibilitando que o usuário cliente possa avaliar melhor as suas decisões na compra de novos produtos. |Alta|
 
 ***2.2. Requisitos Não-Funcionais***
 
