@@ -112,16 +112,16 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 
 |Identificador| Descrição| Prioridade|
 | -------- | -------- | -------- |
-|RNF01| O software deve responder as requisições no intervalo entre 0,5 à 2 segundos | Média|
-|RNF02| O software deve ter um tutorial com indicativos de clique para as funcionalidades | Média|
-|RNF03| O software deve criptografar todas as informações aos salvar os dados | Alta|
-|RNF04| O software deve funcionar tanto para Web quanto para Mobile | Alta|
-|RNF05| O software deve salvar o login e senha do usuário por 1 semana. | Baixa|
-|RNF06| O software deve enviar notificações com 15 dias de antecendência para alertar os funcionários se o produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando | Baixa|
-|RNF07| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet | Média|
-|RNF08| O software deve facilitar a comunicação com sistema de logística para otimizar a gestão de entregas e recebimento de mercadoria | Alta|
-|RNF09| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware | Alta|
-|RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas | Média|
+|RNF01| O software deve responder as requisições no intervalo entre 0,5 à 2 segundos. | Média|
+|RNF02| O software deve ter um tutorial com indicativos de clique para as funcionalidades. | Média|
+|RNF03| O software deve criptografar todas as informações aos salvar os dados. | Alta|
+|RNF04| O software deve funcionar tanto para Web quanto para Mobile. | Alta|
+|RNF05| O software deve salvar o token de autenticação do usuário nos cookies do navegador por um período de 30 dias, até que se renove com outro login após a sua expiração. |Baixa|
+|RNF06| O software deve enviar notificações para alertar os funcionários avisando de que um determinado produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando com 7 dias de antecedência. |Baixa|
+|RNF07| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet. | Média|
+|RNF08| O software deve facilitar a relação com a logística para otimizar a gestão de entregas e recebimento de mercadoria, gerando e imprimindo de forma automática notas fiscais de venda e informações de entrega para a etiquetagem de produtos. | Alta|
+|RNF09| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware. | Alta|
+|RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas. | Média|
 
 *<Link para a pasta de requisitos de sistema .>*
 
