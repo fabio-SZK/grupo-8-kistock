@@ -1,7 +1,7 @@
 ## 1. Diagrama de Caso de Uso – Autenticação e Gerenciamento de Usuários
 Casos de Uso: Cadastrar Administrador, Excluir Funcionário, Criar Funcionário, Fazer Login, Fazer Logout, Criar Token de Autenticação, Excluir Token de Autenticação, Verificar Email, Gerenciamento de Usuários, Gerenciamento de Sessão.
 
-![alt](https://github.com/fabio-SZK/grupo-8-kistock/blob/main/Documentos/Caso%20de%20Uso/Autenticacao%20_%20UseCase.png)
+![alt](https://github.com/fabio-SZK/grupo-8-kistock/blob/main/Diagramas/Diagrama%20de%20Caso%20de%20Uso/Autenticacao.png)
 
 ### Especificação do Caso de Uso: Cadastrar Administrador
 
@@ -168,8 +168,10 @@ E.1.1. O sistema exibe uma mensagem de erro informando que o link é inválido o
 E.1.2. O novo administrador solicita um novo email de verificação.
 
 ## 2. Diagrama de Caso de Uso – Gerenciamento de Estoque
+
 Casos de Uso: Consultar Produtos, Criar Produtos, Excluir Produtos, Atualizar Produtos, Registrar Venda, Registrar Compra, Atualizar Estoque, Gerenciar Produtos, Gerenciar Transações, Criar Histórico de Transação
-![alt](https://github.com/fabio-SZK/grupo-8-kistock/blob/main/Documentos/Caso%20de%20Uso/Estoque%20_%20UseCase.png)
+
+![alt](https://github.com/fabio-SZK/grupo-8-kistock/blob/main/Diagramas/Diagrama%20de%20Caso%20de%20Uso/Estoque.png)
 
 ### Especificação do Caso de Uso: Consultar Produtos
 
@@ -336,8 +338,10 @@ Extensões:
 Nenhuma.
 
 ## 3. Diagrama de Caso de Uso – Nota Fiscal Eletrônica
+
 Casos de Uso: Emitir Nota Fiscal Eletrônica, Verificar Integridade da Nota Fiscal, Salvar XML da Nota Fiscal de Saída na Nuvem, Salvar XML da Nota Fiscal de Entrada na Nuvem
-![alt](https://github.com/fabio-SZK/grupo-8-kistock/blob/main/Documentos/Caso%20de%20Uso/Nota%20Fiscal%20_%20UseCase.png)
+
+![alt](https://github.com/fabio-SZK/grupo-8-kistock/blob/main/Diagramas/Diagrama%20de%20Caso%20de%20Uso/Nota%20Fiscal.png)
 
 ### Especificação do Caso de Uso: Emitir Nota Fiscal Eletrônica (NFe)
 
