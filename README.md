@@ -103,15 +103,14 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RF05| O software deve manter um histórico de entrada de produtos, registrando as compras pela Nota Fiscal de Entrada gerada pelo fornecedor, por um período mínimo de 5 anos. |Alta|
 |RF06| O software deve manter um histórico de sáida de produtos, registrando as venda pela Nota Fiscal de Saída gerada pelo cliente usuário do controle de estoque, por um período mínimo de 15 anos. |Alta|
 |RF07| O software deve permitir aos funcionários a geração de relatórios de entrada e saída de produtos. |Alta|
-|RF08| O software deve permitir aos funcionários o acesso às informações do estoque (produtos, histórico e registros). |Alta|
-|RF09| O software deve notificar com antecedência ao funcionário quando uma conta a pagar tiver seu vencimento apontado para os próximos 3 dias. |Média|
-|RF10| O software deve apresentar as informações do estoque em uma coluna com scroll à esquerda da tela principal - exibida assim que o usuário é autenticado no sistema, assim como um drawer layout, possibilitando facil acesso a uma informação assim que selecionado um item à esquerda, como vendas, compras, estoque com os produtos, dashboard e o emissor de nota fiscal. |Baixa|
-|RF11| O software deve efetuar análises dos valores faturados nas vendas de todos os produtos que houveram movimentações, gerando gráficos semanais, mensais, semestrais e anuais, possibilitando que o usuário cliente possa avaliar melhor as suas decisões na compra de novos produtos. |Alta|
-|RF12| O software deve ter um tutorial com indicativos de clique para as funcionalidades. | Média|
-|RF13| O software deve salvar o token de autenticação do usuário nos cookies do navegador por um período de 30 dias, até que se renove com outro login após a sua expiração. |Baixa|
-|RF14| O software deve enviar notificações para alertar os funcionários avisando de que um determinado produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando com 7 dias de antecedência. |Baixa|
-|RF15| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet. | Média|
-|RF16| O software deve facilitar a relação com a logística para otimizar a gestão de entregas e recebimento de mercadoria, gerando e imprimindo de forma automática notas fiscais de venda e informações de entrega para a etiquetagem de produtos. | Alta|
+|RF08| O software deve notificar com antecedência ao funcionário quando uma conta a pagar tiver seu vencimento apontado para os próximos 3 dias. |Média|
+|RF09| O software deve apresentar as informações do estoque em uma coluna com scroll à esquerda da tela principal - exibida assim que o usuário é autenticado no sistema, assim como um drawer layout, possibilitando facil acesso a uma informação assim que selecionado um item à esquerda, como vendas, compras, estoque com os produtos, dashboard e o emissor de nota fiscal. |Baixa|
+|RF10| O software deve efetuar análises dos valores faturados nas vendas de todos os produtos que houveram movimentações, gerando gráficos semanais, mensais, semestrais e anuais, possibilitando que o usuário cliente possa avaliar melhor as suas decisões na compra de novos produtos. |Alta|
+|RF11| O software deve ter um tutorial com indicativos de clique para as funcionalidades. | Média|
+|RF12| O software deve salvar o token de autenticação do usuário nos cookies do navegador por um período de 30 dias, até que se renove com outro login após a sua expiração. |Baixa|
+|RF13| O software deve enviar notificações para alertar os funcionários avisando de que um determinado produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando com 7 dias de antecedência. |Baixa|
+|RF14| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet. | Média|
+|RF15| O software deve facilitar a relação com a logística para otimizar a gestão de entregas e recebimento de mercadoria, gerando e imprimindo de forma automática notas fiscais de venda e informações de entrega para a etiquetagem de produtos. | Alta|
 
 ***2.2. Requisitos Não-Funcionais***
 
