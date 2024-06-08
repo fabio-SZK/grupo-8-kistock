@@ -107,21 +107,23 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RF09| O software deve notificar com antecedência ao funcionário quando uma conta a pagar tiver seu vencimento apontado para os próximos 3 dias. |Média|
 |RF10| O software deve apresentar as informações do estoque em uma coluna com scroll à esquerda da tela principal - exibida assim que o usuário é autenticado no sistema, assim como um drawer layout, possibilitando facil acesso a uma informação assim que selecionado um item à esquerda, como vendas, compras, estoque com os produtos, dashboard e o emissor de nota fiscal. |Baixa|
 |RF11| O software deve efetuar análises dos valores faturados nas vendas de todos os produtos que houveram movimentações, gerando gráficos semanais, mensais, semestrais e anuais, possibilitando que o usuário cliente possa avaliar melhor as suas decisões na compra de novos produtos. |Alta|
+|RF12| O software deve ter um tutorial com indicativos de clique para as funcionalidades. | Média|
+|RF13| O software deve salvar o token de autenticação do usuário nos cookies do navegador por um período de 30 dias, até que se renove com outro login após a sua expiração. |Baixa|
+|RF14| O software deve enviar notificações para alertar os funcionários avisando de que um determinado produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando com 7 dias de antecedência. |Baixa|
+|RF15| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet. | Média|
+|RF16| O software deve facilitar a relação com a logística para otimizar a gestão de entregas e recebimento de mercadoria, gerando e imprimindo de forma automática notas fiscais de venda e informações de entrega para a etiquetagem de produtos. | Alta|
 
 ***2.2. Requisitos Não-Funcionais***
 
 |Identificador| Descrição| Prioridade|
 | -------- | -------- | -------- |
 |RNF01| O software deve responder as requisições no intervalo entre 0,5 à 2 segundos. | Média|
-|RNF02| O software deve ter um tutorial com indicativos de clique para as funcionalidades. | Média|
-|RNF03| O software deve criptografar todas as informações aos salvar os dados. | Alta|
-|RNF04| O software deve funcionar tanto para Web quanto para Mobile. | Alta|
-|RNF05| O software deve salvar o token de autenticação do usuário nos cookies do navegador por um período de 30 dias, até que se renove com outro login após a sua expiração. |Baixa|
-|RNF06| O software deve enviar notificações para alertar os funcionários avisando de que um determinado produto está perto da data de validade ou a quantidade de produtos no estoque estiver acabando com 7 dias de antecedência. |Baixa|
-|RNF07| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet. | Média|
-|RNF08| O software deve facilitar a relação com a logística para otimizar a gestão de entregas e recebimento de mercadoria, gerando e imprimindo de forma automática notas fiscais de venda e informações de entrega para a etiquetagem de produtos. | Alta|
-|RNF09| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware. | Alta|
-|RNF10| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas. | Média|
+|RNF02| O software deve criptografar todas as informações aos salvar os dados. | Alta|
+|RNF03| O software deve funcionar tanto para Web quanto para Mobile. | Alta|
+|RNF04| O software deve permitir o uso do app em modo offline, sincronizando os dados após restaurar a conexão com a internet. | Média|
+|RNF05| O software deve facilitar a relação com a logística para otimizar a gestão de entregas e recebimento de mercadoria, gerando e imprimindo de forma automática notas fiscais de venda e informações de entrega para a etiquetagem de produtos. | Alta|
+|RNF06| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware. | Alta|
+|RNF07| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas. | Média|
 
 *<Link para a pasta de requisitos de sistema .>*
 
