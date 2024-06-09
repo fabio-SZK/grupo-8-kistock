@@ -123,6 +123,9 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RNF05| O software deve facilitar a relação com a logística para otimizar a gestão de entregas e recebimento de mercadoria, gerando e imprimindo de forma automática notas fiscais de venda e informações de entrega para a etiquetagem de produtos. | Alta|
 |RNF06| O software deve ter um sistema de backup avançado e recuperação de dados para proteger as informações do estoque caso ocorra perdas acidentais ou falhas no hardware. | Alta|
 |RNF07| O software deve ter um suporte multilíngue disponibilizado tanto para Mobile quanto para o Web em diferentes idiomas. | Média|
+|RNF08| O software deve ser fácil de manter e atualizar, permitindo que desenvolvedores possam corrigir erros, adicionar novas funcionalidades e melhorar o desempenho de forma eficiente. | Alta|
+|RNF09| O software deve permitir migração tranquila entre versões e atualizações sem causar interrupções significativas no serviço. | Alta|
+|RNF10| O software deve ser acessível para pessoas com deficiências, seguindo padrões e diretrizes de acessibilidade. | Média|
 
 *<Link para a pasta de requisitos de sistema .>*
 
