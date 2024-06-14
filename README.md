@@ -125,7 +125,7 @@ Agora, Celine não precisa mais depender do Whatsapp para acompanhar as atualiza
 |RNF08| O software deve ser fácil de manter e atualizar, permitindo que desenvolvedores possam corrigir erros, adicionar novas funcionalidades e melhorar o desempenho de forma eficiente. | Alta|
 |RNF09| O software deve permitir migração tranquila entre versões e atualizações sem causar interrupções significativas no serviço. | Alta|
 |RNF10| O software deve ser acessível para pessoas com deficiências, seguindo padrões e diretrizes de acessibilidade. | Média|
-|RF12| O software deve salvar o token de autenticação encriptado do usuário nos cookies do navegador, quando na web, e em key-stores, quando dispositivos móveis, por um período de 30 dias, até que se renove com outro login após a sua expiração. |Alta|
+|RF11| O software deve salvar o token de autenticação encriptado do usuário nos cookies do navegador, quando na web, e em key-stores, quando dispositivos móveis, por um período de 30 dias, até que se renove com outro login após a sua expiração. |Alta|
 
 *<Link para a pasta de requisitos de sistema .>*
 
